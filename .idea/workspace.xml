@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b08825f0-4ab0-4d56-b83f-e9abcba40a8b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/(overview)/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/(overview)/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/customers/[id]/edit/not-found.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/customers/[id]/edit/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/customers/create/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/customers/error.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/customers/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/[id]/edit/not-found.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/[id]/edit/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/create/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/error.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/invoices/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/dashboard/layout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/action.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/connectionDb.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/lib/seed.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/login/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Customer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Invoice.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/Revenue.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/User.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/seed/route.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/customers/breadcrumbs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/customers/buttons.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/customers/create-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/customers/edit-form.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/fonts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/ui/home.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml.1418180929" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml.246144100" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pnpm-lock.yaml.3189158406" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../todo" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jchanthy/nextjs-dashboard.git",
+    "accountId": "297488b9-a68b-444d-807d-79ad5f0f64e2"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2nL40100TPY0V58Nrm588ItDg0D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/U-ser/WebstormProjects/untitled3/nextjs-dashboard/app/ui/customers",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "pnpm",
+    "settings.editor.selected.configurable": "terminal",
+    "ts.external.directory.path": "C:\\Users\\U-ser\\WebstormProjects\\untitled3\\nextjs-dashboard\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\U-ser\WebstormProjects\untitled3\nextjs-dashboard\app\ui\customers" />
+      <recent name="C:\Users\U-ser\WebstormProjects\untitled3\nextjs-dashboard\app\dashboard\customers\[id]\edit" />
+      <recent name="C:\Users\U-ser\WebstormProjects\untitled3\nextjs-dashboard\app\dashboard\customers\create" />
+      <recent name="C:\Users\U-ser\WebstormProjects\untitled3\nextjs-dashboard\app\seed" />
+      <recent name="C:\Users\U-ser\WebstormProjects\untitled3\nextjs-dashboard\app\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\U-ser\WebstormProjects\untitled3\nextjs-dashboard\app\dashboard\customers" />
+      <recent name="C:\Users\U-ser\WebstormProjects\untitled3\nextjs-dashboard\app\dashboard\(overview)" />
+      <recent name="C:\Users\U-ser\WebstormProjects\untitled3\nextjs-dashboard\app\lib" />
+      <recent name="C:\Users\U-ser\WebstormProjects\untitled3\nextjs-dashboard\app\seed" />
+      <recent name="C:\Users\U-ser\WebstormProjects\untitled3\nextjs-dashboard\app\api" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17890.13" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b08825f0-4ab0-4d56-b83f-e9abcba40a8b" name="Changes" comment="" />
+      <created>1728738795295</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728738795295</updated>
+      <workItem from="1728738796449" duration="1009000" />
+      <workItem from="1728740543357" duration="216000" />
+      <workItem from="1728742186119" duration="13463000" />
+      <workItem from="1728777637809" duration="6792000" />
+      <workItem from="1728786305268" duration="73000" />
+      <workItem from="1728786532236" duration="30731000" />
+      <workItem from="1728865621397" duration="37143000" />
+      <workItem from="1728953104332" duration="793000" />
+      <workItem from="1728953920904" duration="24227000" />
+      <workItem from="1728991020280" duration="532000" />
+      <workItem from="1728991578443" duration="83000" />
+      <workItem from="1728991674431" duration="80000" />
+      <workItem from="1728991801678" duration="136000" />
+      <workItem from="1728991957694" duration="2000" />
+      <workItem from="1728992074882" duration="119000" />
+      <workItem from="1728992252854" duration="373000" />
+      <workItem from="1728992644802" duration="248000" />
+      <workItem from="1728994297712" duration="146000" />
+      <workItem from="1728994465668" duration="37000" />
+      <workItem from="1728994927634" duration="32000" />
+      <workItem from="1728994971388" duration="26967000" />
+      <workItem from="1729145355875" duration="1767000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init project for untitle3" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project for untitle3" />
+  </component>
+</project>
